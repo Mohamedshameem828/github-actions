@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "github actions check"
-echo "==================="
+echo "Github Actions Check"
+echo "===================="
 echo "Application working"
-echo "=================="
-echo "jjagujshfugbfjksfsgfjsbfjksbfuuijajkfjkbgjkbgkjgugbgkgu"
+echo "===================="
+echo "fcvrgbhnjh,mmikh5gt9856874u567234fwetdrfghuhiuigrdjddft"
