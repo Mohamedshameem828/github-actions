@@ -1,6 +1,6 @@
 #!/bin/bash
 echo " Test is begin"
-if [-y app.sh]; then
+if [ -f app.sh ]; then
  echo "Test done"
 else
 echo "Test incomplete"
